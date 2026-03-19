@@ -11,9 +11,13 @@ AUC, confusion matrix, ROC curve, etc.). Results are saved in CSV files.
 Please download the following datasets from Kaggle:
 
 CBIS-DDSM-H: https://kaggle.com/datasets/9cef8368a7037c7d63324c73fa6384c0e6f9d02e10c2b07a0c37b640dbf17c45
+
 Chest-Xray-2017_V2: https://kaggle.com/datasets/ce5259e7e743223ff2888759297abd27d388cd59af68e7a55ffb25ce8352ab19
+
 Chest-XRay-2018_V3: https://kaggle.com/datasets/c0273ec00430e8d06a1c6212c991aa298138954cd6f01a91c746a609bfcf8b4c
+
 Brain Tumor Dataset H: https://kaggle.com/datasets/4e5596da6b1ebfa9044ac3ddf2a424d12968f6ee193ec7d3b02aa31b7247d5df
+
 ISIC-2017-H: https://kaggle.com/datasets/4e83433e33e4b0eb6fa18f9ad6956a3340d317ac4156d9538ed95704a0db2b62
 
 # Folder Structure
